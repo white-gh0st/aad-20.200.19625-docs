@@ -51,8 +51,6 @@ html {
 body {
   margin: 0px;
   padding: 0px;
-  background-color: #ffffff;     /* newly added */
-  color: #000000;                    /* newly added */
   z-index: -999;
   text-align: left;  /* ltr */
 }
@@ -366,9 +364,9 @@ div.login_textfield {
 
 input.login_textfield {
   height: 28px;
-  padding: 3px;
+  padding-left: 3px;
   margin: 0px;
-  border: solid 1px #BABABA;
+  border: 1px solid #B8B8B8;
   z-index: 3;
   margin-right: 100px;  /* ltr */
   margin-left: 0px;  /* ltr */
