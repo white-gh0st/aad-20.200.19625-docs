@@ -367,9 +367,9 @@ div.login_textfield {
 input.login_textfield {
   height: 28px;
   padding: 0px 3px 0px 3px;
-  /* margin: 0px; */
+  margin: 0px;
   border: solid 1px #BABABA;
-  /* z-index: 3; */
+  z-index: 3;
   margin-right: 100px;  /* ltr */
   margin-left: 0px;  /* ltr */
   background: transparent; 
