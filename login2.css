@@ -370,6 +370,7 @@ input.login_textfield {
   margin-left: 0px;  /* ltr */
   background: transparent; 
   color: #000000;
+  margin-bottom: 8px;
 }
 
 ::-webkit-input-placeholder {
