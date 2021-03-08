@@ -301,19 +301,6 @@ div#background_page_overlay {
   padding-bottom: 18em;
 }
 
-.login_workload_logo_container {
-  margin-bottom: 100px;
-  width: auto;
-  height: auto;
-  
-  transition: margin 0.6s;
-  -moz-transition: margin 0.6s;
-  -webkit-transition: margin 0.6s;
-  -o-transition: margin 0.6s;
-  transition-property: margin;
-  transition-duration: 0.6s;
-}
-
 .login_cta_container {
   width: auto;
   height: auto;
@@ -975,11 +962,9 @@ div#tfa_code_container {
 
 @media only screen and (max-height: 820px), (max-device-height: 820px) {
   .inner_container {
-    padding-top: 45px;
+    padding-top: 30px;
   }
-  .login_workload_logo_container {
-    margin-bottom: 30px;
-  }
+ 
   .login_cred_container {
     margin-bottom: 20px;
   }
@@ -989,9 +974,7 @@ div#tfa_code_container {
   .inner_container {
     padding-top: 30px;
   }
-  .login_workload_logo_container {
-    margin-bottom: 10px;
-  }
+ 
   .login_cred_container {
     margin-bottom: 20px;
   }
@@ -1001,9 +984,7 @@ div#tfa_code_container {
   .inner_container {
     padding-top: 30px;
   }
-  .login_workload_logo_container {
-    margin-bottom: 0px;
-  }
+
   .login_cred_container {
     margin-bottom: 20px;
   }
