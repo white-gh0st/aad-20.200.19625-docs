@@ -964,7 +964,9 @@ div#tfa_code_container {
   .inner_container {
     padding-top: 30px;
   }
- 
+ .login_workload_logo_container {
+    margin-bottom: 20px;
+  }
   .login_cred_container {
     margin-bottom: 20px;
   }
@@ -974,7 +976,9 @@ div#tfa_code_container {
   .inner_container {
     padding-top: 30px;
   }
- 
+  .login_workload_logo_container {
+    margin-bottom: 10px;
+  }
   .login_cred_container {
     margin-bottom: 20px;
   }
@@ -984,6 +988,8 @@ div#tfa_code_container {
   .inner_container {
     padding-top: 30px;
   }
+  .login_workload_logo_container {
+    margin-bottom: 0px;
 
   .login_cred_container {
     margin-bottom: 20px;
